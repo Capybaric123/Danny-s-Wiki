@@ -16,3 +16,4 @@ BookEditPath = 'tree/main/'
 BookSearch = true
 BookComments = true
 BookDateFormat = 'Jan 2, 2006'
+BookCommitPath = 'commit'
