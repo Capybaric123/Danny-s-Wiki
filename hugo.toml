@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "Danny's Wiki"
 theme = "hugo-book"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 BookTheme = 'auto'
 BookLogo = 'wikipedia.svg'
