@@ -6,16 +6,4 @@ type: docs
 
 ---
 
-Welcome to the home page of this test site!
-
-## Introduction
-
----
-
-It is the introduction, but I am too bored to write anything here...
-
-## More stuff...
-
----
-
-Even more stuff I have no business writing.
+Welcome to the home page of this new wiki based on the HUGO static page generator, and enjoy the new style of a brand new wiki!
