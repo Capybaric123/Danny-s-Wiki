@@ -12,6 +12,5 @@ BookTheme = 'auto'
 BookLogo = 'wikipedia.svg'
 BookToC = true
 BookRepo = 'https://github.com/Capybaric123/Danny-s-Wiki/tree/main'
-BookEditPath = 'tree/main/content'
 BookSearch = true
 BookComments = true
