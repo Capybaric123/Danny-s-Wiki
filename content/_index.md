@@ -18,7 +18,7 @@ This is a simple wiki style website, hosted on github using the HUGO's github ac
 
 ---
 
-If you would like to contribute to this project you are always free to do so, you can either press the _**edit this page**_ button at the bottom of any existing page or you can just follow [this](https://github.com/Capybaric123/Danny-s-Wiki/tree/main) link and create your own page instead of editing one.
+If you would like to contribute to this project you are always free to do so, you can either press the _**edit this page**_ button at the bottom of any existing page or you can just follow <a href="https://github.com/Capybaric123/Danny-s-Wiki/tree/main" target="_blank">this</a> link and create your own page instead of editing one.
 
 ---
 
