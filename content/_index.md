@@ -8,6 +8,12 @@ type: docs
 
 Welcome to the home page of this new wiki based on the HUGO static page generator, and enjoy the new style of a brand new wiki!
 
+## Info
+
+---
+
+This is a simple wiki style website, hosted on github using the HUGO's github actions deployment to run HUGO websites on github pages, which is quite usefull. I would really like to appreciate the developers of _hugo-book_ - the theme of this website. It is a pleasure to work with this website software and I hope that by creating this website I will inspire other people to contribute or create their own websites, since web development had become super easy these days! Thanks for reading this!
+
 ## Contributing
 
 ---
