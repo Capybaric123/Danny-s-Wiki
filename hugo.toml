@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = "Danny's Wiki"
 theme = "hugo-book"
 
+disablePathToLower = true
+enableGitInfo = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -16,4 +19,3 @@ BookEditPath = 'tree/main/'
 BookSearch = true
 BookComments = true
 BookDateFormat = 'January 2, 2006'
-BookCommitPath = 'commit'
